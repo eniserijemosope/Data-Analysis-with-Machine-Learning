@@ -22,7 +22,7 @@ This project employs **Linear Regression** to model and forecast sales based on 
 ### **1. Feature-Target Relationship**
 <img width="949" height="390" alt="feature_target_pairplot" src="https://github.com/user-attachments/assets/cf2f8c9a-bdfc-4daa-8afe-4a29b54dbe71" />
 
-- **TV advertising** shows the strongest linear correlation with sales (R² = 0.797)  
+- **TV advertising** shows the strongest linear correlation with sales
 - **Radio** exhibits complementary effects when combined with TV  
 - **Newspaper** shows minimal impact on sales  
 
