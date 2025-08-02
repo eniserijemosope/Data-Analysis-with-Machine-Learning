@@ -35,7 +35,7 @@ This project employs **Linear Regression** to model and forecast sales based on 
 - **Cross-Val R²: 0.892** - Consistent performance  
 
 ## **TV & Radio Model**
-##<img width="465" height="391" alt="act_vs_pred(tv_radio)" src="https://github.com/user-attachments/assets/6b1b2e31-ac1a-47eb-9a51-3d3442e38639" />
+<img width="465" height="391" alt="act_vs_pred(tv_radio)" src="https://github.com/user-attachments/assets/6b1b2e31-ac1a-47eb-9a51-3d3442e38639" />
 
 - **R²: 0.913** - Marginally better than full model  
 - **RMSE: 1.535** - Slightly improved accuracy  
@@ -48,15 +48,12 @@ This project employs **Linear Regression** to model and forecast sales based on 
 - **RMSE: 2.348** - Larger prediction errors  
 - **Cross-Val R²: 0.892**  
 
----
-
 ## **Key Findings**
 1. **TV advertising is the dominant sales driver** (accounts for 79.7% of explainable variance)  
 2. **Radio provides significant complementary value** - Adding radio to TV model improves R² from 0.797 to 0.913  
 3. **Newspaper ads show negligible impact** - Inclusion doesn't improve model performance  
 4. **Optimal Model**: TV + Radio (Highest R² and lowest RMSE)  
 
----
 
 ## **Business Recommendations**
  - Reallocate the newspaper budget to TV and radio for maximum ROI  
