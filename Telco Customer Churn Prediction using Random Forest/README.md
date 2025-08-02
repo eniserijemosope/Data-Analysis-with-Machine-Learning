@@ -3,7 +3,6 @@
 ## **What's This About?**
 This project looks at why telecom customers leave (we call this "churn") and tries to predict who might leave next. I used machine learning to find patterns and figure out what really makes customers stay or go.
 
----
 
 ## **What I Did**
 **Explored the data** - Looked at different customer groups and their churn patterns  
@@ -11,7 +10,6 @@ This project looks at why telecom customers leave (we call this "churn") and tri
 **Built a prediction model** - Created a tool that can flag at-risk customers using Random Forest 
 **Came up with ideas** - Thought of ways the company could keep more customers  
 
----
 
 ## **Things I Found**
 
@@ -58,14 +56,11 @@ pip install -r requirements.txt
 jupyter notebook churn_analysis.ipynb
 ```
 
----
-
 ## **What Could Be Better Next Time**
 - Try using **more customer data** like service calls  
 - Test **other machine learning methods**  
 - Build a **real-time warning system**  
 
----
 
 This was a really interesting project! It showed me how data science can help solve real business problems. The company could actually use these findings to keep more customers happy. 😊
 
