@@ -19,4 +19,18 @@ Each project includes:
 - **Code Implementation**: Scripts for data preprocessing, modeling, and evaluation.  
 - **Results**: Visualizations and performance metrics.  
 
+## Requirements
+
+- Python 3.8+
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+Install dependencies with:
+```
+pip install -r requirements.txt
+```
+
+
 For in-depth documentation, refer to the individual project directories.
